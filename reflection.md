@@ -36,8 +36,5 @@ Ví dụ : đưa ra điều khoản chính sách cho user đọc
 - **Giúp:** dùng Claude để brainstorm, viết code để xử lý upload dữ liệu 
 
   tìm ra lỗi sai trong workflow khi hợp code với team 
-- **Sai/mislead:** Claude gợi ý thêm feature "đặt lịch khám" vào chatbot —
-  nghe hay nhưng scope quá lớn cho hackathon. Suýt bị scope creep nếu không dừng lại.
-  Bài học: AI brainstorm tốt nhưng không biết giới hạn scope.
-
+- **Sai/mislead:** 
   Claude gợi ý chọn thêm API của google map để lấy ra dữ liệu trạm sạc quá khó để giải quyết sớm nên nhóm đã gác lại tool này và đổi qua tool chính là tổng hợp chính sách 
